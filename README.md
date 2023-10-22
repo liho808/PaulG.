@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Portfolio</title>
+    <title>Paul Galvez - Portfolio For Data Sceince</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -19,7 +19,7 @@
 
     <section id="about" class="section">
         <h2>About Me</h2>
-        <p>Write a brief introduction about yourself here.</p>
+        <p>I am a recent grduate from Bellevue University with my MAster's Degree in Data Science. I am passionate about all things data science and have a passion for using data to solve complex problems.</p>
     </section>
 
     <section id="work" class="section">
