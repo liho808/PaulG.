@@ -21,7 +21,7 @@
 
     <section id="about" class="section">
         <h2>About Me</h2>
-        <p>Write a brief introduction about yourself here.</p>
+        <p>I am new to the data science field but I am passionate about finding new, innovative, and fun ways to solve complex probelms.</p>
     </section>
 
     <section id="work" class="section">
