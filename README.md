@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <Paul Galvez>Your Name - Portfolio<For Data Science>
+    <title>Your Name - Portfolio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -37,3 +37,4 @@
     </footer>
 </body>
 </html>
+
