@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    Paul Galvez - Portfolio For Data Sceince
+    Paul Galvez - Portfolio for Data Science
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -21,7 +21,10 @@
         <h2>About Me</h2>
         <p>I am a recent grduate from Bellevue University with my Master's Degree in Data Science. 
         I am passionate about all things data science and have a passion for using data to solve complex problems. 
-        I am looking for a role as a data scientist, analyst, or engineer. I have worked on several projects that wove together my love of data and working in the travel and tourism industry.</p>
+        I am looking for a role as a data scientist, analyst, or engineer. 
+        I have worked on several projects that wove together my love of data and working in the travel and tourism industry.</p>
+    </section>
+
     </section>
 
     <section id="work" class="section">
@@ -36,6 +39,9 @@
 
     <footer>
         <p>&copy; 2023 Your Name</p>
+    </footer>
+</body>
+</html>
     </footer>
 </body>
 </html>
