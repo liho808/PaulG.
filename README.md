@@ -16,25 +16,3 @@
             </ul>
         </nav>
     </header>
-
-    <section id="about" class="section">
-        <h2>About Me</h2>
-        <p>Write a brief introduction about yourself here.</p>
-    </section>
-
-    <section id="work" class="section">
-        <h2>Work/Projects</h2>
-        <!-- List your projects or work samples here -->
-    </section>
-
-    <section id="contact" class="section">
-        <h2>Contact Me</h2>
-        <p>Contact information and a contact form can be included here.</p>
-    </section>
-
-    <footer>
-        <p>&copy; 2023 Your Name</p>
-    </footer>
-</body>
-</html>
-
